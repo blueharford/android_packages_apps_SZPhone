@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/src/com/wysie/wydialer
+END
+IContactSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/com/wysie/wydialer/IContactSplit.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/com/wysie/wydialer/Preferences.java
+END
+ContactAccessorSdk5.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/trunk/src/com/wysie/wydialer/ContactAccessorSdk5.java
+END
+ContactAccessorSdk3_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/com/wysie/wydialer/ContactAccessorSdk3_4.java
+END
+PhoneSpellDialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/src/com/wysie/wydialer/PhoneSpellDialer.java
+END
+ContactAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/com/wysie/wydialer/ContactAccessor.java
+END

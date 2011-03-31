@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/13/trunk/res/layout-finger
+END
+contacts_list_item_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/res/layout-finger/contacts_list_item_photo.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/13/trunk/res/layout-finger/main.xml
+END
+contacts_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/res/layout-finger/contacts_list_item.xml
+END
+recent_calls_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/res/layout-finger/recent_calls_list_item.xml
+END
+dial_digits_delete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/res/layout-finger/dial_digits_delete.xml
+END
